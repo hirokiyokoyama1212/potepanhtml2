@@ -1,0 +1,55 @@
+@media screen and (max-width: 1080px){
+  .site-header {
+    position: fixed;
+    background-color: #fff;
+    z-index: 10;
+    width: 100%;
+  }
+  
+  .content-width {
+    max-width: none;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .header-nav-item-outline{
+ 	  display: none;
+  }
+  
+  .header-button-outline{
+  	display: none;
+  }
+  
+  .fa.fa-bars{
+  	display: block;
+  	z-index: 100;
+  	position: relative;
+  	width: 30px;
+  	height: 21px;
+  	font-size: 30px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
